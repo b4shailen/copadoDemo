@@ -1,2 +1,2 @@
 # wister
-a micro blogging to share ones wisedom.. 
+a micro blogging to share ones wisdom.. 
